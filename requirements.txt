@@ -5,7 +5,6 @@ tensorflow-io-gcs-filesystem==0.33.0
 h5py==3.12.1
 numpy==1.24.3
 pillow==11.0.0
-protobuf==3.19.6  # Lower version that resolves conflict
 requests==2.32.3
 Werkzeug==3.1.3
 absl-py==2.1.0
