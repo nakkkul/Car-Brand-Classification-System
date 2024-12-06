@@ -22,7 +22,6 @@ grpcio==1.68.1
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.4
-keras==3.7.0
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
@@ -33,10 +32,3 @@ namex==0.0.8
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
-Pygments==2.18.0
-rich==13.9.4
-six==1.17.0
-termcolor==2.5.0
-typing_extensions==4.12.2
-urllib3==2.2.3
-wrapt==1.17.0
